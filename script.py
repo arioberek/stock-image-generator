@@ -445,7 +445,6 @@ def read_prompts_from_file(file_path: str) -> List[str]:
 
 
 def main():
-    """Main function to run the full workflow"""
     parser = argparse.ArgumentParser(
         description="Image generation, upscaling, and Adobe Stock upload workflow"
     )
