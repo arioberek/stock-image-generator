@@ -2,3 +2,5 @@
 output/generated
 output/upscaled
 venv
+image_workflow.log
+workflow_results.json
